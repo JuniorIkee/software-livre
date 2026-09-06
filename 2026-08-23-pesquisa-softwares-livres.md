@@ -16,5 +16,7 @@ Ainda não defini o projeto nesta primeira semana. O próximo passo será analis
 
 Link dos repositórios:
 Simple Icons: https://github.com/simple-icons/simple-icons
+
 Pico CSS:  https://github.com/picocss/pico
+
 Bruno: https://github.com/usebruno/bruno

@@ -5,6 +5,7 @@ Existe um bug no DBeaver particularmente irritante que sempre tive ao utilizá-l
 O problema acontece quando vou tentar fazer novamente em outra consulta, essa navegação já não aparece mais como opção. Normalmente preciso reiniciar o dbeaver para isso, o que torna inviável, já que eu teria que reiniciar o debeaver a cada nova consulta em que eu quisesse navegar por uma chave estrangeira.
 
 ![alt text](image.png)
+
 ![alt text](image-1.png)
 
 Pesquisando nas issues, encontrei uma bem semelhante sobre esse bug ainda em aberto desde 14 de dezembro de 2024, #[35678](https://github.com/dbeaver/dbeaver/issues/35678).
